@@ -18,11 +18,12 @@ VS Code
 Python
 
 **How to Run**
-Open project in preferred code editor
+Open project in preferred code editor. 
 Insert grades into the dictionary
 Run the program
 
 **Screencast**
+
 Explanation:
 https://www.loom.com/share/ac650d1813e64271a7e851df01cc40f7
 
